@@ -1,6 +1,6 @@
 %define name	fgr
 %define version 4.5.0
-%define release %mkrel 4
+%define release %mkrel 5
 
 Name: 	 	%{name}
 Summary: 	File search utility for xffm
